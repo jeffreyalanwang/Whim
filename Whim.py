@@ -44,7 +44,7 @@ if passwordStatus == 'y':
 input('Press enter to clear the screen and continue to the top-level space.')
 
 
-# top_space todo finish the top_space function
+# top_space
 def top_space(blankscreen):
     if blankscreen == '1':
         clear()
